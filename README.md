@@ -1,12 +1,17 @@
+<h1 align="center">
+    AnotherTwitter
+    <a href="URL: https://twitter.com/intent/tweet?text=AnotherTwitter%20-%20Take%20another%20view%20on%20Twitter%20-%20%u2699%uFE0F%20Download%3A%20https%3A//github.com/derLesh/AnotherTwitter&hashtags=AnotherTwitter">
+    <img alt="Twitter" src="https://img.shields.io/twitter/url/https/github.com/derLesh/AnotherTwitter">
+    </a>
+</h1>
+
 <p align="center">
-# AnotherTwitter
+    <a href="https://github.com/derLesh/AnotherTwitter/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/derLesh/AnotherTwitter?style=flat-square"></a>
+    <a href="https://github.com/derLesh/AnotherTwitter/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/derLesh/AnotherTwitter"></a>
+    <a href="https://github.com/derLesh/AnotherTwitter/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/derLesh/AnotherTwitter?style=flat-square"></a>
 </p>
 
----
-
 Another view on Twitter from <b>you</b> - [download now](#installation)
-
----
 
 ### Features
 
