@@ -1,0 +1,24 @@
+/* div[data-testid="sidebarColumn"] {
+    position: absolute!important;
+    right: auto!important;
+} */
+
+main[role="main"] {
+    align-items: center !important;
+}
+
+/* NEW TWEET Container */
+div[class="DraftEditor-root"] {
+    scrollbar-width: none;
+}
+
+/* Primary Coloumn */
+div[data-testid="primaryColumn"] {
+    border-width: 0 !important;
+}
+
+/* Weird grey bar between NT Container and Tweets */
+div[class="css-1dbjc4n r-z32n2g r-1or9b2r"] {
+    visibility: hidden !important; 
+}
+

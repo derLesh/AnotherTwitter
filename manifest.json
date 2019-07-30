@@ -9,6 +9,12 @@
 		"scripts": ["background.js"],
 		"persistent": false
 	},
+	"content_scripts": [
+		{
+			"css": ["anothertwitter.css"],
+			"matches": ["https://twitter.com/*", "https://mobile.twitter.com/*"]
+		}
+	],
 	"homepage_url": "https://github.com/derLesh/AnotherTwitter",
 
 	"manifest_version": 2
