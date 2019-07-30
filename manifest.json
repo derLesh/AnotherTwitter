@@ -12,6 +12,7 @@
 	"content_scripts": [
 		{
 			"css": ["anothertwitter.css"],
+			"js": ["atwitter.js"],
 			"matches": ["https://twitter.com/*", "https://mobile.twitter.com/*"]
 		}
 	],
