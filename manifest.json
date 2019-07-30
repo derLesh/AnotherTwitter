@@ -1,0 +1,15 @@
+{
+	"name": "AnotherTwitter",
+	"short_name": "ATwitter",
+	"author": "Lesh",
+	"version": "0.1",
+	"version_name": "Creating the beginning",
+	"description": "Another view on Twitter - Make Twitter better than before",
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+	"homepage_url": "https://github.com/derLesh/AnotherTwitter",
+
+	"manifest_version": 2
+}
