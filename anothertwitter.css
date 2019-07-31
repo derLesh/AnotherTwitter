@@ -4,7 +4,7 @@
 } */
 
 main[role="main"] {
-    align-items: center !important;
+    justify-content: center !important;
 }
 
 /* NEW TWEET Container */
@@ -14,11 +14,40 @@ div[class="DraftEditor-root"] {
 
 /* Primary Coloumn */
 div[data-testid="primaryColumn"] {
+    z-index: 2 !important;
+    margin-top: 70px;
     border-width: 0 !important;
 }
+
+div[data-testid="sidebarColumn"] > div > div > div > div > div > div > div {
+    justify-content: center;
+}
+
+form[role="search"] {
+    /*position: center !important;*/
+    display: center!important;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 516px !important;
+    top: 3px;
+    right: 500px!important;
+    z-index: 0;
+    position: static!important;
+}
+
+/* div[data-testid="sidebarColumn"] > div > div > div > div > div > div {
+    justify-content: center!important;
+} */
+
 
 /* Weird grey bar between NT Container and Tweets */
 div[class="css-1dbjc4n r-z32n2g r-1or9b2r"] {
     visibility: hidden !important; 
 }
+
+/* NAV Mittig links */
+header[role="banner"] > div > div > div {
+    justify-content: center;
+}
+
 

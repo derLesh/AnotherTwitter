@@ -1,6 +1,6 @@
 <h1 align="center">
     AnotherTwitter
-    <a href="URL: https://twitter.com/intent/tweet?text=AnotherTwitter%20-%20Take%20another%20view%20on%20Twitter%20-%20%u2699%uFE0F%20Download%3A%20https%3A//github.com/derLesh/AnotherTwitter&hashtags=AnotherTwitter">
+    <a href="https://twitter.com/intent/tweet?text=AnotherTwitter%20-%20Take%20another%20view%20on%20Twitter%20-%20%u2699%uFE0F%20Download%3A%20https%3A//github.com/derLesh/AnotherTwitter&hashtags=AnotherTwitter">
     <img alt="Twitter" src="https://img.shields.io/twitter/url/https/github.com/derLesh/AnotherTwitter">
     </a>
 </h1>
